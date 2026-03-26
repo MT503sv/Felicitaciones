@@ -72,7 +72,9 @@ const dataOriginal = {
   
   "Cristofher Gerar Hernandez Guzman": "Cristofher, felicidades por este logro. Todo el trabajo que hiciste se ve reflejado ahora.",
   
-  "Yoselin Guadalupe Rodríguez Salinas": "Yoselin, felicidades por este logro. Todo tu esfuerzo dio frutos. Este momento es tuyo."
+  "Yoselin Guadalupe Rodríguez Salinas": "Yoselin, felicidades por este logro. Todo tu esfuerzo dio frutos. Este momento es tuyo.",
+
+  "Irvin Pineda": "Fue un gusto haber recibido sus clases fueron las mejores de todas el conocimiento, el apoyo y sobre todo ser una gran ayuda para dar dirección a nuestras vidas. Y solo eso es algo que todo tercer año tendra en el corazón ya que eso nunca se olvida es como una chispa que queda para dar una luz guía y de apoyo en los momentos más oscuros y lo vemos pronto. Y como dice ME DEPIERTO ME LEVANTO TRIUNFO. -Con mucho aprecio y cariño todo 3° año."
 };
 
 const data = Object.fromEntries(
