@@ -32,8 +32,6 @@ const dataOriginal = {
   
   "Carlos Ezequiel Tovar Jovel": "Carlos, felicidades por este logro. Todo lo que aprendiste ahora tiene un resultado real. Este momento habla por sí solo.",
   
-  "Irvin Pineda": "Gracias por todo el apoyo brindado. Más que un logro académico, esto representa una etapa importante en nuestras vidas. Su enseñanza dejó una marca en cada uno de nosotros.",
-  
   "Mateo Antonio Menjivar Melara": "Mateo, felicidades por este logro. Todo el esfuerzo que hiciste dio resultado. Quédate con este momento, porque lo construiste tú.",
   
   "Madelinne Beatriz Pineda Pimentel": "Madelinne, lo lograste. Este resultado refleja tu dedicación. Disfruta este momento, porque realmente lo mereces.",
